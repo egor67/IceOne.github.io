@@ -1,0 +1,82 @@
+.messege{
+	position:absolute; 
+}
+.van{
+	top:2%;
+	left:1%;
+}
+.messege2{
+	position:absolute; 
+}
+.van2{
+	top:2%;
+	left:15%;
+}
+.a{
+	position:absolute; 
+}
+.a2{
+	top:20%;
+	left:1%;
+}
+.bor{
+	border:2px solid white;
+	border-radius:7px;
+}
+.bor:hover{
+	border:4px white;
+}
+.col{
+	color:white;
+	font-size:50px;
+}
+.bor{
+	background-color:blue;
+	padding:10px;
+}
+body{
+	background-image: url(brawl.jpg);
+}
+.txt{
+	border:2px solid white;
+	background-color:blue;
+	border-radius:7px;
+	padding:10px;
+}
+.txt:hover{	
+	border:4px white;
+	font-size:25px;
+}
+.f{
+	position:absolute; 
+}
+.f2{
+	top:3%;
+	left:77%;
+}
+.txt2{
+	font-size:20px;
+	color:white;
+}
+.n{
+	position:absolute; 
+}
+.n2{
+	top:46%;
+	left:29%;
+}
+.t3{
+	border:2px solid white;
+	padding:8px;
+	border-radius:7px;
+	font-size:25px;
+	background-color:blue;
+	color:white;
+}
+.q{
+	position:absolute;
+}
+.q2{
+	top:39%;
+	left:39%;
+}
